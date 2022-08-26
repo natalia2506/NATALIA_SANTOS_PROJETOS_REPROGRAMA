@@ -1,1 +1,2 @@
-#Semana 7
+## 📍 Semana 07
+Conteúdo programático: Event Loop, Callbacks, Promises e Async/Await
